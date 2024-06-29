@@ -10,5 +10,5 @@ message HelloRequest {
 }
 
 message HelloReply {
-    string name = 1;
+    string message = 1;
 } 
